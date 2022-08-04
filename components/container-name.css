@@ -1,0 +1,25 @@
+.container-name{
+    display: flex;
+
+}
+.name-blog-left{
+    position: absolute;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 1.5em;
+    color: #fff;
+    
+    margin-top: 41px;
+    left: 15%;
+}
+.name-blog-rigth{
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+    font-size: 1.5em;
+    color: #fff;
+    
+    margin-top: 41px;
+    right: 15%;
+    position: absolute;
+}
+

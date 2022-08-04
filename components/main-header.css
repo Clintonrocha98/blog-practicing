@@ -1,0 +1,8 @@
+.main-header{
+    display: flex;
+    height: 250px;
+    width: 100vw;
+
+    background: rgb(87,74,232);
+    background: linear-gradient(90deg, rgba(87,74,232,1) 35%, rgba(62,161,219,1) 100%);
+}

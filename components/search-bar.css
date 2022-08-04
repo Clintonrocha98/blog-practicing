@@ -1,0 +1,33 @@
+.search-bar{
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+
+    width: 70%;
+    height: 60px;
+
+    background: rgba(255, 255, 255, 0.2);
+
+    border-radius: 5px;
+    border-color: transparent;
+}
+svg{
+    padding: 17px;
+}
+.bar{
+    background: transparent;
+    
+    width: 95%;
+    height: 50px;
+}
+input:focus{
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+input::placeholder{
+    font-family: 'Inter';
+    font-size: 1.1rem;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
