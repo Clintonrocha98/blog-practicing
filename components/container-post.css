@@ -31,6 +31,13 @@
     padding: 20px;
     font-size: 1rem;
     color: #717171;
+    
+}
+.container-post .header-post svg{
+    transition: transform 100ms linear;
+}
+.container-post .header-post svg:hover{
+    transform: scale(1.30);
 }
 .container-post h1{
 
